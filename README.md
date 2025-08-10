@@ -1,7 +1,18 @@
 <h1> App Juego Amigo Secreto</h1>
 
--Estado del Proyecto: En construcción.
+## Introduccion
 
-<h1 alig="center"> Friend </h1>
+-El proyecto consiste en desarrollar una app que permita a jugadores adivinar el nombre del amigo secreto, entre varios opciones de amigos.
+
+-Estado del Proyecto: 
+
+: construction : En construcción : construction :
+
+<h1 alig="center"> Logo del proyecto, Friend </h1>
 
 ![Una descripción de la imagen.](https://github.com/user-attachments/assets/92d26b87-2116-482f-9601-6b97d700216d)
+
+## : wrench : Funcionalidades del proyecto
+
+
+
