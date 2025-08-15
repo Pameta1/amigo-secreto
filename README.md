@@ -1,4 +1,4 @@
-<h1> App Juego Amigo Secreto</h1>
+<h1> App Amigo Secreto</h1>
 
 ## Introduccion
 
